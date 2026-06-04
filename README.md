@@ -1,9 +1,5 @@
 # Noah Labs - Proposition Commerciale Dermacadémie
 
-<div align="center">
-<img width="1200" height="475" alt="Noah Labs Logo" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
 **Première version de la solution Lead-Gen Data-Driven pour Dermacadémie**
 
 Une application d'accompagnement intelligente conçue pour optimiser le remplissage des sessions de formation de Dermacadémie grâce à la technologie d'IA générative Google Gemini et une stratégie data-driven éprouvée.

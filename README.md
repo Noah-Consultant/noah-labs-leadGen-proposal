@@ -1,4 +1,3 @@
-```markdown
 # Noah Labs - Proposition Commerciale Dermacadémie
 
 <div align="center">

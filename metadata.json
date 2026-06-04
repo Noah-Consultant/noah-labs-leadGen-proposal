@@ -1,0 +1,6 @@
+{
+  "name": "Noah Labs - Proposition Commerciale Dermacadémie",
+  "description": "Proposition d'accompagnement - Pilote Lead Gen Data-Driven pour le remplissage des sessions de formation de Dermacadémie.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

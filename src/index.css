@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,500;0,9..144,600;1,9..144,300;1,9..144,400&family=Manrope:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #06010A;
+  --color-coffee-deep: #0F0208;
+  --color-coffee: #1A0508;
+  --color-coffee-raised: #2B080D;
+  --color-coffee-warm: #430E10;
+  --color-ember: #641818;
+  --color-bordeaux: #8B2020;
+
+  --color-gold-deep: #8B6030;
+  --color-gold: #B8834A;
+  --color-gold-bright: #D4A050;
+  --color-gold-flash: #F0C870;
+
+  --color-ivory: #F5EDDA;
+  --color-ivory-muted: #D9C8A8;
+  --color-parchment: #A88458;
+  --color-parchment-dim: #785E42;
+
+  --font-display: 'Fraunces', 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+:root {
+  --ink: #06010A;
+  --coffee-deep: #0F0208;
+  --coffee: #1A0508;
+  --coffee-raised: #2B080D;
+  --coffee-warm: #430E10;
+  --ember: #641818;
+  --bordeaux: #8B2020;
+  --gold-deep: #8B6030;
+  --gold: #B8834A;
+  --gold-bright: #D4A050;
+  --gold-flash: #F0C870;
+  --ivory: #F5EDDA;
+  --ivory-muted: #D9C8A8;
+  --parchment: #A88458;
+  --parchment-dim: #785E42;
+  --font-display: 'Fraunces', 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Manrope', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+body {
+  background-color: #0F0208;
+  color: #F5EDDA;
+  font-family: 'Manrope', sans-serif;
+  background-image:
+    radial-gradient(ellipse 80% 55% at 50% 0%, rgba(139, 32, 32, 0.12), transparent 65%),
+    radial-gradient(ellipse 60% 45% at 50% 100%, rgba(100, 24, 24, 0.08), transparent 70%),
+    radial-gradient(ellipse 50% 35% at 15% 50%, rgba(180, 50, 30, 0.04), transparent 60%);
+  background-attachment: fixed;
+}
